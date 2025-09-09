@@ -13,6 +13,7 @@
 |Integrante|Descripción|Conocimiento|
 |-----------|--------|---------|
 | Ruben Velasquez Chambi - U202117342 ![Integrante-Ruben](/assets/img/chapter-I/Integrante-Ruben.jpeg)            | Soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente estoy cursando el septimo ciclo de la carrera de Ingeniería de Software, tengo 25 años. Me destaco en el trabajo en equipo y en encontrar formas de mejorar la eficiencia del equipo. | Tengo un nivel intermedio de conocimiento en C++, Node.js y TypeScript,Java así como habilidades en Angular,vue.js HTML, CSS.Tambien manejo el desarrollo bajo los principios SOLID                                |
+| Jose Luis Martinez Valdivia - U202213989 ![Integrante-Jose](/assets/img/chapter-I/foto_Jose.jpg)            |Me considero una persona apasionada por aprender nuevas cosas y mejorar mi nivel de programacion de forma diaria.| Soy estudiante de la carrera de Ingenieria. Cuento con conocimiento en los lenguajes de Pyhton, JavaScript y C#. Me encuentro mejorando mis conocimientos en Angular, virtualizacion y VueJS                                |
 ## 1.2. Solution Profile
 ### 1.2.1. Nombre del Producto
 El nombre elegido para nuestro producto es OptiCash. Este nombre refleja la esencia de nuestra propuesta: optimizar la administración del dinero en los hogares mediante un sistema justo, transparente y automatizado

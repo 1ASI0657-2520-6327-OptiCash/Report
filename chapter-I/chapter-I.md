@@ -143,9 +143,10 @@ OptiCash ofrece un ahorro de tiempo y una reducción de conflictos al automatiza
 **Representación de costo promedio de errores en cálculos manuales - 2020**  
 
 *Fernando Blanco P. (2020). Gráfico de LDL – ESTADÍSTICA VISUAL (VIII). Gráficos con barras de error: manual de usuario – Lima, 2020*  
-<img src="" alt="grafico1"/>
-
-**Figura:** Representación visual del costo promedio de errores manuales.  
+<div align="center">
+  <img src="/assets/img/chapter-I/grafico1.png" alt="grafico1" width="400">
+  <p><strong>Figura:</strong> Representación visual del costo promedio de errores manuales.</p>
+</div>
 
 </div>
 

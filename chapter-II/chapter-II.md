@@ -95,7 +95,29 @@ La información recopilada será fundamental para el diseño de una herramienta 
 
 ---
 
+**Entrevista 2**  
+- **Nombre completo:** Maria Pilares Pocohuanca
+- **Edad:** 22 años  
+- **Distrito:** Los Olivos  
+- **Screenshot del video:**
+  <div align="center">
+  <img src="/assets/img/chapter-I/entrevistado1.2.png" alt="entrevistado1.2" width="400">
+</div>
 
+- **URL del video en Microsoft Stream:** 
+- **Duración:** 04:12
+
+**Resumen descriptivo:** Maria Pilares nos cuenta que actualmente los gastos se dividen en partes iguales pero esto genera problemas ya que no todos en el hogar ganan los mismo ingresos y esto genera discusiones. Maria cuenta q el  sistema actual actual es poco transparente ya que cuesta recordar quién pagó y dependen de avisos en la app WhatsApp o de hojas de cálculo de Excel donde no siempre se eactualizan. Nos comenta que en su hogar hablar del dinero a veces resulta incómodo. Además nos cuenta que si existiera una pp como OptiCash, confiaría en ella si fuera segura, fácil de usar y transparente en lo cáluclo. Le gusatría ver los saldo pendiente, hisotrial de pagos y alertas. Cree que un aplicación así ocasionaría que bajen las tensiones en la convivencia y haría el reparto de gastos más justo.
+
+**Características objetivas y subjetivas observadas:**  
+- **Personalidad:** Amable 
+- **Marcas/Influencias:**  
+- **Tecnología:**
+- **Canales de interacción:** WhatsApp  
+- **Browser/Dispositivos:** Chrome / Apple  
+- **Nivel digital:** Alto  
+
+---
 
 #### Segundo Segmento - Representantes del hogar  
 

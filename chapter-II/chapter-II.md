@@ -72,12 +72,12 @@ La información recopilada será fundamental para el diseño de una herramienta 
 #### Primer Segmento - Personas del hogar  
 
 **Entrevista 1**  
-- **Nombre completo:** Fabricio Belahonia Miranda  
-- **Edad:** 23 años  
-- **Distrito:** Ate  
+- **Nombre completo:** Pierina Almandroz Carvajal
+- **Edad:** 20 años  
+- **Distrito:** Surco
 - **Screenshot del video:**
   <div align="center">
-  <img src="/assets/img/chapter-I/entrevistado1.png" alt="entrevistado1" width="400">
+  <img src="/assets/img/chapter-I/entrevistado2.png" alt="entrevistado1" width="400">
 </div>
 
 - **URL del video en Microsoft Stream:** 
@@ -121,6 +121,28 @@ La información recopilada será fundamental para el diseño de una herramienta 
 
 #### Segundo Segmento - Representantes del hogar  
 
+
+**Entrevista 1**  
+- **Nombre completo:** Fabricio Belahonia Miranda  
+- **Edad:** 23 años  
+- **Distrito:** Ate  
+- **Screenshot del video:**
+  <div align="center">
+  <img src="/assets/img/chapter-I/entrevistado1.png" alt="entrevistado1" width="400">
+</div>
+
+- **URL del video en Microsoft Stream:** 
+- **Duración:** 06:37  
+
+**Resumen descriptivo:** _(pendiente)_  
+
+**Características objetivas y subjetivas observadas:**  
+- **Personalidad:** Amable y social  
+- **Marcas/Influencias:**  
+- **Tecnología:**
+- **Canales de interacción:** WhatsApp  
+- **Browser/Dispositivos:** Chrome / Android  
+- **Nivel digital:** Alto  
 
 
 

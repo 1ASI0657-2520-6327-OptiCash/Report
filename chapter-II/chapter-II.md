@@ -120,7 +120,7 @@ Pierina vive con su roomie en una residencia cerca de la universidad. Actualment
 
 ---
 
-#### Segundo Segmento - Representantes del hogar  
+### Segundo Segmento - Representantes del hogar  
 
 
 **Entrevista 1**  
@@ -133,17 +133,18 @@ Pierina vive con su roomie en una residencia cerca de la universidad. Actualment
 </div>
 
 - **URL del video en Microsoft Stream:** 
-- **Duración:** 06:37  
+- **Duración:** 05:50  
 
-**Resumen descriptivo:** _(pendiente)_  
+**Resumen descriptivo:** 
+Fabricio es un joven padre de familia, responsable de la administración de los gastos del hogar, incluyendo manutención de su hijo y servicios de la casa. Actualmente gestiona los pagos de forma manual con papel y lápiz, pegando notas en la refrigeradora. Menciona que los principales retos son la desorganización ocasional y la falta de claridad sobre qué pagos ha realizado. Considera importante que los miembros del hogar tengan visibilidad de los gastos en tiempo real y valora la transparencia y alertas automáticas que le permita organizar sus finanzas de manera eficiente. Está dispuesto a delegar parte del control de sus gastos a una aplicación siempre que garantice la seguridad de sus datos.
 
 **Características objetivas y subjetivas observadas:**  
-- **Personalidad:** Amable y social  
-- **Marcas/Influencias:**  
-- **Tecnología:**
-- **Canales de interacción:** WhatsApp  
+- **Personalidad:** Responsable y organizado, aunque reconoce dificultades en la gestión manual de gastos
+- **Marcas/Influencias:** Prefiere soluciones prácticas y confiables; influenciado por aplicaciones móviles de mensajería y gestión financiera.
+- **Tecnología:** amiliarizado con apps móviles, notificaciones, y herramientas digitales básicas; cómodo usando smartphones para comunicación y organización.
+- **Canales de interacción:** WhatsApp, llamadas telefónicas y mensajes de texto. 
 - **Browser/Dispositivos:** Chrome / Android  
-- **Nivel digital:** Alto  
+- **Nivel digital:** Alto; cómodo aprendiendo y utilizando nuevas aplicaciones y funcionalidades digitales.  
 
 
 

@@ -2,7 +2,39 @@
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
 
+|Categoría|OptiCash|Splitwise|Tricount|Splid|
+|---------|--------|---------|--------|-----|
+|Perfil - overview| Startup peruana que distribuye gastos según ingresos individuales, fomentando justicia y transparencia.| Plataforma global de gastos compartidos. | App europea muy popular para dividir gastos flexibles | App práctica sin necesidad de registro, incluso offline. | 
+|Ventaja Competitiva| Equidad real basada en capacidad económica. Reducción de conflictos financieros, distribución justa y transparencia. | Masiva adopción y conexión con apps de pago. Organización clara de deudas compartidas, reducción de discusiones. | Simplicidad y facilidad de uso, con gran adopción offline. Control simple y accesible de gastos compartidos. | Simplicidad, privacidad y manejo en múltiples monedas. Rapidez y facilidad para registrar y dividir gastos sin complicaciones. |
+|Perfil de Marketing||  |  |  |
+|Mercado objetivo| Hogares, parejas, familias y roommates en Perú y LATAM.| Jóvenes adultos y grupos globales. | Viajeros, familias y amigos en Europa y LATAM. | Grupos pequeños (amigos, parejas). |
+|Estrategias de Marketing| Marketing digital educativo, alianzas universitarias y comunidades locales.| Boca a boca, marketing en redes y app stores. | Promoción en viajes, eventos sociales, boca a boca | Enfoque en la simplicidad, marketing digital y reseñas en stores. |
+|Perfil de Producto|  |  |  |  |
+|Productos y servicios| Cálculo proporcional, alertas, historial | División de gastos, integración con PayPal/Venmo | División flexible, reportes | División offline/online, multimoneda, exportación de datos |
+|Precios y costos| Modelo freemium (gratis + premium) | Freemium con funciones premium ($3/mes). | Gratuito (con publicidad opcional) | Gratuito con versión pro de bajo costo |
+|Canales de distribución| Web y móvil. | Web y móvil. | Móvil/web. | Móvil |
+|Análisis SWOT|  |  |  |  |
+|Fortalezas| Propuesta innovadora, Equidad basada en ingresos, Mercado local poco explotado | Marca global, gran base de usuarios, integración con pagos | Simple y flexible, gran base en Europa, confiable. | Offline, simple, privacidad, sin registro obligatorio |
+|Debilidades| Startup nueva, limitada visibilidad | No considera ingresos, saturación de funciones | Menor presencia global que Splitwise. | Limitada escalabilidad y funciones. |
+|Oportunidades| Alta necesidad en LATAM, posible integración bancaria. | Expansión a LATAM con alianzas fintech | Crecimiento en LATAM, expansión de features. | Atraer usuarios preocupados por privacidad. |
+|Amenazas| Competencia global consolidada (Splitwise, Tricount). | Apps emergentes más simples. | Fuerte competencia global. | Apps más completas con mayor inversión. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Opticash se diferencia de apps como Splitwise, Tricount o Splid porque no solo divide gastos en partes iguales, sino que considera los ingresos de cada persona para hacerlo más justo. Esa es nuestra principal ventaja a la competencia.
+
+**Estrategia de equidad financiera**
+Queremos enfocarnos en la justicia económica dentro del hogar.
+**Táctica** Usar campañas educativas y emocionales, mostrando cómo un reparto justo ayuda a mejorar la convivencia.
+
+**Estrategia de funcionalidades útiles desde el inicio**
+A diferencia de otras apps que limitan lo gratuto, OptiCash dará valor real desde el comienzo (cálculo proporcional, historial y alertas).
+**Táctica** Aplicar un modelo freemium, dejando las funciones más avanzadas en una versión premium
+
+**Estrategia de cercanía con el mercado laboral**
+Mientras que otras app apuntan a Europa o USA, acá buscamos crecer en Perú y Latinoamérica.
+**Táctica** Usar un lenguaje cercano además de crear alianzas con universidades y comunidades jóvenes.
+
 ## 2.2. Entrevistas  
 
 ### 2.2.1. Diseño de entrevistas  

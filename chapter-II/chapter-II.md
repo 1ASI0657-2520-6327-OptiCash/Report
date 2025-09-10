@@ -54,7 +54,7 @@ La información recopilada será fundamental para el diseño de una herramienta 
 - **Zona:** Urbana y suburbana (Perú)  
 
 **Preguntas de la entrevista:**  
-1. ¿Cómo organiza actualmente los ingresos y gastos del hogar?  
+1. ¿Cuál es su rol dentro de su hogar en cuanto a la administración del dinero?
 2. ¿Cuál es el mayor reto al coordinar que todos los miembros cumplan con sus pagos?  
 3. ¿Qué métodos o herramientas utiliza para dar seguimiento a los gastos (ejemplo: Excel, cuadernos, grupos de WhatsApp)?  
 4. ¿Con qué frecuencia se presentan desacuerdos o retrasos en los pagos?  

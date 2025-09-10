@@ -148,7 +148,46 @@ Fabricio es un joven padre de familia, responsable de la administración de los 
 
 
 
-### 2.2.3. Análisis de entrevistas
+## 2.2.3. Análisis de entrevistas
+
+### SEGMENTO 1 – Personas del hogar
+
+| Característica | Tipo | Evidencia | Porcentaje (3 entrevistas) |
+|----------------|------|-----------|----------------------------|
+| Convivencia con familiares o pareja | Objetiva | Todos viven con su pareja o padres | 100% |
+| Ingreso principal asumido por uno solo | Objetiva | En 2/3 casos, solo una persona trabaja | 67% |
+| Reparto de gastos según ingresos | Subjetiva | 3/3 consideran justo dividir según ingresos | 100% |
+| No uso de app financiera actualmente | Objetiva | Ninguno usa app, pero estarían dispuestos | 100% |
+| Interés por funcionalidades como ahorro y visualización | Subjetiva | Mencionado en todas las entrevistas | 100% |
+| Conflictos por temas de dinero | Subjetiva | 2/3 han tenido conflictos por pagos | 67% |
+| Brecha generacional en adopción digital | Subjetiva | Mencionado en entrevista 3 (personas mayores) | 33% |
+
+**Observaciones clave:**  
+- La falta de herramientas digitales no se debe a desinterés, sino a falta de opciones prácticas o conocimiento.  
+- Todos los entrevistados están dispuestos a usar una app si esta es intuitiva y útil.  
+- Se evidencian dos arquetipos complementarios:  
+  1. **El proveedor de hogar joven:** trabaja, cubre la mayoría de los gastos, busca una forma justa de organizar.  
+  2. **El conviviente colaborador tradicional:** comparte con padres, usa métodos manuales, dispuesto a adoptar herramientas simples.
+
+---
+
+### SEGMENTO 2 – Representantes del hogar
+
+| Característica | Tipo | Evidencia | Porcentaje (3 entrevistas) |
+|----------------|------|-----------|----------------------------|
+| Convivencia con amigos | Objetiva | Todos viven con amigos, no con familiares o pareja | 100% |
+| Reparto en partes iguales, pero desequilibrado | Subjetiva | "A veces uno termina pagando más que el otro" | 100% |
+| No uso de app, solo notas compartidas | Objetiva | WhatsApp y notas, pero no actualizadas siempre | 100% |
+| Necesidad de herramientas visuales | Subjetiva | "Gráficos o barras fáciles de entender" | 100% |
+| Problemas para recordar pagos | Subjetiva | "A veces no recordamos quién pagó qué" | 100% |
+| Funcionalidades deseadas: recordatorios, claridad visual | Subjetiva | "Registrar pagos, ver quién debe qué, y enviar recordatorios" | 100% |
+
+**Observaciones clave:**  
+- La falta de un sistema estructurado y la dependencia de herramientas informales como WhatsApp y notas en celulares se destacan como puntos de mejora.  
+- Los gráficos y recordatorios automáticos son cruciales para mejorar la convivencia y evitar malentendidos por los pagos.  
+- El arquetipo final emergente sería: **“El roommate organizado pero caótico”:** joven que busca mantener la equidad en los pagos, pero necesita soluciones tecnológicas que simplifiquen la administración de gastos y eviten conflictos.
+
+---
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas

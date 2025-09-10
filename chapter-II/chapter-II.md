@@ -81,16 +81,17 @@ La información recopilada será fundamental para el diseño de una herramienta 
 </div>
 
 - **URL del video en Microsoft Stream:** 
-- **Duración:** 06:37  
+- **Duración:** 05:13  
 
-**Resumen descriptivo:** _(pendiente)_  
+**Resumen descriptivo:** 
+Pierina vive con su roomie en una residencia cerca de la universidad. Actualmente dividen los gastos en partes iguales o con acuerdos verbales, aunque esto suele generar confusión y retrasos en los reembolsos. Para llevar control usan notas en el celular o conversaciones por WhatsApp, pero consideran este método desordenado y poco transparente. En relación a OptiCash, Pierina afirma que confiaría en la aplicación siempre que sea fácil de usar, segura y con respaldo de datos, pues eso le daría tranquilidad de no perder información. Le gustaría que muestre de forma clara los saldos pendientes, el historial de pagos y recordatorios automáticos, ya que cree que así se evitarían discusiones y malentendidos. Además, considera útil que la app pueda calcular automáticamente el aporte de cada persona según su ingreso, dado que no siempre cuentan con la misma capacidad económica.
 
 **Características objetivas y subjetivas observadas:**  
 - **Personalidad:** Amable y social  
-- **Marcas/Influencias:**  
-- **Tecnología:**
+- **Marcas/Influencias:** Apple 
+- **Tecnología:** IOS
 - **Canales de interacción:** WhatsApp  
-- **Browser/Dispositivos:** Chrome / Android  
+- **Browser/Dispositivos:** Safari/Apple
 - **Nivel digital:** Alto  
 
 ---

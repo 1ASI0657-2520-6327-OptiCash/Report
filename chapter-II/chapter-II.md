@@ -241,10 +241,24 @@ Fabricio es un joven padre de familia, responsable de la administración de los 
 
 ### 2.3.2. User Task Matrix
 
-### 2.3.3. User Journey Mapping
+En esta sección presentamos el User Task Matrix, que concentra las tareas que los User Persona, representando a cada segmento de OptiCash, realizan para cumplir sus objetivos. 
+
+|User Task|Luciana Gomez - Miembro del Hogar| |Francisco Montoya - Representante del hogar|  |
+|---------|-----------|---|-------|----|
+|    |Frecuencia|Importancia|Frecuencia|Importancia|
+| Registrar y dividir los gastos del hogar | Often | High | Often | High |
+| Revisar cuánto debe aportar cada integrante | Often | High | Often | High |
+| Usar aplicaciones móviles de finanzas compartidas | Sometimes | Medium | Sometimes | Medium |
+| Hablar con los demás sobre gastos y responsabilidades | Sometimes | High | Often | High |
+| Verificar si los pagos del mes ya se realizaron | Often | High | Often | High |
+| Planificar y distribuir el presupuesto del hogar | Never | Low | Often | High |
+| Supervisar que los pagos mensuales estén cubiertos | Never | Low | Often | High |
+| Calcular cuánto debería aportar cada miembro | Sometimes | Low | Sometimes | High |
+| Buscar herramientas para facilitar la gestión financiera | Sometimes | Medium | Sometimes | Medium |
+| Resolver conflictos por dinero entre miembros | Rarely | High | Sometimes | High |
+
 
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-is Scenario Mapping
 
-## 2.4. Ubiquitous Language

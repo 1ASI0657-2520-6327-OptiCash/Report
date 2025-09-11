@@ -224,6 +224,21 @@ Fabricio es un joven padre de familia, responsable de la administración de los 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
+### SEGMENTO 1: Personas del hogar 
+**User Persona :** Luciana Gomez
+
+<div align="center">
+  <img src="/assets/img/chapter-I/UserPersona_Luciana Gomez.png" alt="UserPersona1" width="400">
+</div>
+
+### SEGMENTO 2: Representantes del hogar
+**User Persona :** Francisco Montoya
+
+<div align="center">
+  <img src="/assets/img/chapter-I/UserPersona_Francisco Montoya.png" alt="UserPersona2" width="400"> 
+</div>
+
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping

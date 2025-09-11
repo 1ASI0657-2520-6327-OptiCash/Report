@@ -275,3 +275,21 @@ En esta sección presentamos el User Task Matrix, que concentra las tareas que l
 
 ### 2.3.4. As-is Scenario Mapping
 
+### SEGMENTO 1: Personas del hogar 
+**User Persona :** Luciana Gomez
+
+<div align="center">
+  <img src="/assets/img/chapter-I/As-Is_Segmento1.png" alt="As-Is_Segmento1" width="400">
+</div>
+
+Link del miro: [Miro As-Is Segmento N°1](https://miro.com/app/board/uXjVJJ1a0S4=/?moveToWidget=3458764598811622285&cot=14)
+
+### SEGMENTO 2: Representantes del hogar
+**User Persona :** Francisco Montoya
+
+<div align="center">
+  <img src="/assets/img/chapter-I/As-Is_Segmento2.png" alt="As-Is_Segmento2" width="400"> 
+</div>
+
+Link del miro: [Miro As-Is Segmento N°2](https://miro.com/app/board/uXjVJJ1a0S4=/?moveToWidget=3458764640085095645&cot=14)
+

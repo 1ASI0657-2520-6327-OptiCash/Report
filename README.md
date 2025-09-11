@@ -43,7 +43,7 @@
 
 |   Versión |   Fecha   |           Autor           |               Descripción  de modificación               |
 |-----------|-----------|---------------------------|-------------------------------------------|
-|   TB1     |xx/xx/2025 |           x               |                       x                   |
+|   TB1     |10/09/2025 | Rubén Genaro Velasquez Chambi | Se agrego la introducción el proyecto y el Lean UX Problem statements |
 
 ## Contenido
 
@@ -177,8 +177,8 @@
 ## Student Outcome
 | Criterio especifico                       | Acciones realizadas | Conclusiones |
 |-------------------------------------------|---------------------|--------------|
-| Actualizan conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |                     |              |
-| Reconocen la necesidad del aprendizaje permanente profesional y el desarrollo de proyectos en soluciones de software. |                     |              |
+| Actualizan conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | *Ruben Genaro Velasquez Chambi*<br> **TB1**<br> Planteé el tema del proyecto e identifiqué el problema que buscamos resolver, haciendo uso de técnicas como Lean UX. Además, definí el segmento objetivo al que estará dirigido. | El uso de los Lean UX Problem Statements fue clave para identificar de manera precisa el problema que se busca solucionar tecnológicamente.  |
+| Reconocen la necesidad del aprendizaje permanente profesional y el desarrollo de proyectos en soluciones de software. | *Ruben Genaro Velasquez Chambi*<br> **TB1**<br> En esta entrega, aprendí la importancia  a identificar tanto el segmento objetivo como el problema principal que se busca resolver con la tecnología, utilizando enfoques prácticos como Lean UX para comprender mejor las necesidades de los usuario | El aprendizaje permanente en el ámbito profesional resulta esencial para desarrollar proyectos tecnológicos efectivos. Identificar correctamente el segmento objetivo y los problemas que se enfrentan a la hora de diseñar soluciones de tecnologicas.|
 
 
 # Capítulo I: Presentación
@@ -189,6 +189,132 @@
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+<div align="justify">
+
+La división de gastos compartidos ha sido un reto constante en hogares y grupos desde hace décadas. Tradicionalmente se resolvía con cálculos manuales o acuerdos informales, lo que generaba errores, retrasos en los pagos y conflictos entre las personas (Gómez & Ramírez, 2018).  
+
+Hoy en día, este problema persiste. Según PwC (2020), más del 45% de jóvenes adultos que comparten vivienda reportan conflictos por gastos mal distribuidos, y la Encuesta Global de Finanzas Personales de Visa (2021) indica que el 38% de los encuestados considera “estresante” dividir cuentas en grupo. Estas cifras reflejan la necesidad de una solución más justa y transparente.  
+
+En este contexto, surge OptiCash, una herramienta que facilita el reparto equitativo de los gastos considerando los ingresos individuales, promoviendo la transparencia y reduciendo los conflictos financieros en la convivencia.  
+
+</div>
+
+
+### What
+<div align="justify">
+
+**¿Cuál es el problema?**  
+El problema es la distribución inadecuada de los gastos en hogares donde las personas tienen diferentes ingresos, lo que genera desigualdad en las contribuciones y posibles conflictos. Según PwC (2020), más del 45% de jóvenes que comparten vivienda reportan discusiones por gastos mal repartidos.  
+
+**¿Cuál es la relación con la persona en cuestión?**  
+El sistema está diseñado para que cada miembro del hogar pueda visualizar y aportar su parte justa según su capacidad económica. El representante del hogar gestiona el seguimiento y asegura que todos contribuyan de manera justa.  
+
+</div>
+
+
+
+### When
+<div align="justify">
+
+**¿Cuándo sucede el problema?**  
+El problema ocurre a menudo al momento de pagar las facturas del hogar (mensualmente, por ejemplo). Los miembros enfrentan la dificultad de repartir los gastos de manera justa, especialmente si hay diferencias en ingresos.  
+
+**¿Cuándo utiliza el cliente el producto?**  
+El cliente lo utilizará cada vez que se registre un gasto común (alquiler, luz, agua, supermercado, etc.) o cuando quiera conocer su contribución justa según su ingreso. También lo usará al final de cada mes para hacer un seguimiento de pagos y deudas pendientes.  
+
+</div>
+
+
+
+### Where
+<div align="justify">
+
+**¿Dónde está el cliente cuando usa el producto?**  
+El cliente generalmente estará en su hogar o en un lugar donde tenga acceso a Internet, como en su teléfono móvil o computadora. Es un producto digital, por lo que se accede a través de una aplicación web o móvil.  
+
+**¿A dónde se dirige?**  
+El cliente se dirige al panel de control del sistema para consultar los gastos, los montos que debe aportar y el saldo pendiente.  
+
+**¿Dónde surge el problema?**  
+El problema surge en el hogar, cuando los gastos comunes (como luz, agua, comida, etc.) deben ser repartidos de forma proporcional entre los miembros, teniendo en cuenta sus diferentes ingresos.  
+
+</div>
+
+
+### Why
+<div align="justify">
+
+**¿Cuál es la causa principal del problema?**  
+La falta de un sistema claro y equitativo para distribuir los gastos. Esto genera malestar y conflictos, ya que no se refleja la capacidad real de cada persona para aportar (Visa, 2021).  
+
+</div>
+
+
+
+### Who
+<div align="justify">
+
+**¿Quiénes están involucrados?**  
+Los principales involucrados son los miembros del hogar y el representante del hogar.  
+
+**¿A quiénes les sucede el problema?**  
+Les sucede a las personas que viven juntas y comparten gastos, como parejas, familias o compañeros de cuarto que tienen ingresos distintos.  
+
+**¿Quién lo utilizará?**  
+- Los miembros del hogar, quienes podrán ver cuánto deben pagar según su capacidad económica.  
+- El representante del hogar, quien gestiona y supervisa el proceso de reparto de los gastos.  
+
+</div>
+
+
+
+### How
+<div align="justify">
+
+**¿Cómo ocurre el problema?**  
+El problema aparece al dividir los gastos comunes de forma manual o igualitaria, sin considerar los ingresos de cada miembro, lo que genera desigualdad y conflictos.  
+
+**¿Cómo se lleva a cabo el proceso en OptiCash?**  
+1. Cada miembro del hogar registra sus ingresos y se crea un perfil en el sistema.  
+2. Los gastos comunes (alquiler, servicios, compras, etc.) se ingresan en la aplicación.  
+3. El sistema calcula automáticamente la contribución proporcional de cada persona según sus ingresos.  
+4. Cada miembro puede consultar en su panel cuánto debe pagar, cuánto ya aportó y qué deudas están pendientes.  
+5. El representante del hogar supervisa el estado de los pagos y asegura que todo se mantenga actualizado.  
+
+**¿En qué condiciones usan el producto?**  
+Cuando necesitan repartir gastos de manera justa, controlar pagos realizados y pendientes o evitar errores manuales.  
+
+**¿Qué motiva a las personas a usarlo?**  
+La necesidad de transparencia, la búsqueda de equidad y la reducción de conflictos financieros, respaldado por una plataforma segura, confiable y fácil de usar.  
+
+</div>
+
+
+### How Much
+<div align="justify">
+
+**¿Cuál es la magnitud del problema?**  
+El problema de los gastos compartidos no es aislado, sino constante y cotidiano. Cada mes, millones de hogares destinan tiempo y energía a discutir cómo dividir facturas y compras, lo que genera fricciones en la convivencia. Más allá de los números, el impacto se refleja en relaciones tensas, retrasos en pagos y una falta de organización financiera que afecta tanto la economía como la armonía en el hogar.  
+
+**¿Cuánto cuesta no resolverlo?**  
+No contar con una herramienta justa puede generar pérdidas económicas por pagos atrasados, deudas no saldadas y tensiones que afectan la convivencia. Además, el tiempo invertido en cálculos manuales puede ser considerable mes a mes.  
+
+**¿Cuánto vale la solución?**  
+OptiCash ofrece un ahorro de tiempo y una reducción de conflictos al automatizar los cálculos y adaptar las contribuciones a los ingresos. Esto no solo representa eficiencia, sino también un valor intangible en la mejora de la convivencia y la confianza entre los miembros del hogar.  
+
+</div>
+
+<div align="center">
+
+**Representación de costo promedio de errores en cálculos manuales - 2020**  
+
+*Fernando Blanco P. (2020). Gráfico de LDL – ESTADÍSTICA VISUAL (VIII). Gráficos con barras de error: manual de usuario – Lima, 2020*  
+<img src="" alt="grafico1"/>
+
+**Figura:** Representación visual del costo promedio de errores manuales.  
+
+</div>
+
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements

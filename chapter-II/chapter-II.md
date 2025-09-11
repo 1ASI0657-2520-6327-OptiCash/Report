@@ -112,7 +112,9 @@ La información recopilada será fundamental para el diseño de una herramienta 
   <img src="/assets/img/chapter-I/entrevistado2.png" alt="entrevistado1" width="400">
 </div>
 
-- **URL del video en Microsoft Stream:** 
+- **URL del video en Microsoft Stream:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a804_upc_edu_pe/EXqcGEnmU3RCud1tPs21mLgBEToC-AvuKCNgrS9OpC6MZA?e=VOpCUU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Duración:** 05:13  
 
 **Resumen descriptivo:** 
@@ -164,7 +166,9 @@ Pierina vive con su roomie en una residencia cerca de la universidad. Actualment
   <img src="/assets/img/chapter-I/entrevistado1.png" alt="entrevistado1" width="400">
 </div>
 
-- **URL del video en Microsoft Stream:** 
+- **URL del video en Microsoft Stream:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a804_upc_edu_pe/EUL4SNgAdI1CreQZ-BPNZdcB640n2FJH-Ip4-hr8ChIeEQ?e=nBrTKo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Duración:** 05:50  
 
 **Resumen descriptivo:** 

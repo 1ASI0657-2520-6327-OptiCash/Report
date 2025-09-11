@@ -245,7 +245,7 @@ En esta sección presentamos el User Task Matrix, que concentra las tareas que l
 
 |User Task|Luciana Gomez - Miembro del Hogar| |Francisco Montoya - Representante del hogar|  |
 |---------|-----------|---|-------|----|
-|    |Frecuencia|Importancia|Frecuencia|Importancia|
+|    |**Frecuencia**|**Importancia**|**Frecuencia**|**Importancia**|
 | Registrar y dividir los gastos del hogar | Often | High | Often | High |
 | Revisar cuánto debe aportar cada integrante | Often | High | Often | High |
 | Usar aplicaciones móviles de finanzas compartidas | Sometimes | Medium | Sometimes | Medium |
@@ -257,8 +257,21 @@ En esta sección presentamos el User Task Matrix, que concentra las tareas que l
 | Buscar herramientas para facilitar la gestión financiera | Sometimes | Medium | Sometimes | Medium |
 | Resolver conflictos por dinero entre miembros | Rarely | High | Sometimes | High |
 
+### 2.3.3. Empathy Mapping
 
-### 2.3.4. Empathy Mapping
+### SEGMENTO 1: Personas del hogar 
+**User Persona :** Luciana Gomez
 
-### 2.3.5. As-is Scenario Mapping
+<div align="center">
+  <img src="/assets/img/chapter-I/EmpathyMap_Luciana Gomez.png" alt="UserPersona1" width="400">
+</div>
+
+### SEGMENTO 2: Representantes del hogar
+**User Persona :** Francisco Montoya
+
+<div align="center">
+  <img src="/assets/img/chapter-I/EmpathyMap_Francisco Montoya.png" alt="UserPersona2" width="400"> 
+</div>
+
+### 2.3.4. As-is Scenario Mapping
 

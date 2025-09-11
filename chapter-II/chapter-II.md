@@ -180,6 +180,29 @@ Fabricio es un joven padre de familia, responsable de la administración de los 
 
 
 
+**Entrevista 2**  
+- **Nombre completo:** Juan Carlos Pastor Napa
+- **Edad:** 20 años  
+- **Distrito:** Surquillo  
+- **Screenshot del video:**
+  <div align="center">
+  <img src="/assets/img/chapter-I/entrevistado2seg2.png" alt="entrevistado1" width="400">
+</div>
+
+- **URL del video en Microsoft Stream:** 
+- **Duración:** 06:18
+
+**Resumen descriptivo:** 
+Juan Carlos, de 20 años, es el encargado de administrar el dinero en su hogar. Su pareja le entrega sus ingresos y él se encarga de los pagos fijos y de organizar los gastos. Aunque considera que llevan un buen orden, reconoce que el mayor reto son los retrasos en los ingresos y los gastos imprevistos. Para gestionar las finanzas usa principalmente notas en el celular, Excel de manera ocasional y conversaciones por WhatsApp. Resalta la importancia de la transparencia en el manejo del dinero para mantener una convivencia sana. Valora la idea de una aplicación como OptiCash siempre que sea sencilla, práctica y segura, y la ve como una herramienta complementaria a sus métodos actuales.
+
+**Características objetivas y subjetivas observadas:**  
+- **Personalidad:** Responsable y organizado, aunque reconoce dificultades en la gestión manual de gastos
+- **Marcas/Influencias:** Prefiere soluciones prácticas y confiables; influenciado por aplicaciones móviles de mensajería y gestión financiera.
+- **Tecnología:** Familiarizado con apps móviles, notificaciones, y herramientas digitales básicas; cómodo usando smartphones para comunicación y organización.
+- **Canales de interacción:** WhatsApp, notas del celular, conversaciones presenciales.
+- **Browser/Dispositivos:** Chrome / Android  
+- **Nivel digital:** Intermedio-básico; se siente cómodo con apps sencillas y de uso cotidiano, abierto a nuevas herramientas si no son complejas.
+
 ## 2.2.3. Análisis de entrevistas
 
 ### SEGMENTO 1 – Personas del hogar

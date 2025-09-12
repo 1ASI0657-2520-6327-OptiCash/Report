@@ -160,7 +160,7 @@ Pierina vive con su roomie en una residencia cerca de la universidad. Actualment
 - **Distrito:** Chorrillos
 - **Screenshot del video:**
   <div align="center">
-  <img src="/assets/img/chapter-I/entrevistado1.3.png" alt="entrevistado1.3" width="400">
+  <img src="/assets/img/chapter-I/entrevistado 1.3.png" alt="entrevistado 1.3" width="400">
 </div>
 
 - **URL del video en Microsoft Stream:** 

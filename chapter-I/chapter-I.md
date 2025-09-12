@@ -182,7 +182,18 @@ Hemos observado un factor crítico que afecta la satisfacción de los usuarios: 
 - Creemos que si ofrecemos reportes claros (historial de pagos, saldos pendientes, aportes individuales), los usuarios sentirán mayor transparencia y confianza en la convivencia financiera.  
 
 ---
-#### 1.2.3.3. Lean UX Hypothesis Statements
+### 1.2.3.3. Lean UX Hypothesis Statements  
+
+1. **We believe** que desarrollar una app que divida automáticamente los gastos según ingresos para **familias, parejas y roommates en zonas urbanas** logrará reducir discusiones sobre pagos y mejorar la convivencia.  
+   **We will know this is true when** al menos el 70% de los usuarios reporten menos conflictos financieros en sus hogares tras 2 meses de uso.  
+
+2. **We believe** que implementar notificaciones automáticas y alertas de pago para **usuarios que comparten vivienda** logrará incrementar la puntualidad en los pagos mensuales.  
+   **We will know this is true when** el 80% de los usuarios paguen dentro de la fecha establecida.  
+
+3. **We believe** que mostrar reportes visuales claros con saldos, historial y aportes para **usuarios con nivel digital medio-alto** logrará aumentar la sensación de transparencia y control.  
+   **We will know this is true when** al menos el 75% de los usuarios califiquen la app como “clara” o “muy clara” en encuestas de satisfacción.  
+
+---
 #### 1.2.3.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo

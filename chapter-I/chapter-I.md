@@ -167,7 +167,21 @@ Hemos observado un factor crítico que afecta la satisfacción de los usuarios: 
 
 **¿Cómo mejorar la transparencia y equidad en la gestión de los gastos compartidos, logrando que los hogares cumplan sus objetivos financieros y se sientan satisfechos con el sistema?**
 
-#### 1.2.3.2. Lean UX Assumptions & Lean Us Hypothesis
+### 1.2.3.2. Lean UX Assumptions & Lean UX Hypothesis  
+
+**Assumptions (Supuestos):**  
+- Los hogares y grupos de convivencia enfrentan conflictos al dividir sus gastos porque lo hacen de forma manual o igualitaria, sin considerar ingresos individuales.  
+- Los usuarios valoran la transparencia y desean conocer en tiempo real cuánto deben aportar y quién ya pagó.  
+- Una aplicación digital puede ser más confiable que acuerdos verbales o registros improvisados en WhatsApp o Excel.  
+- Los usuarios confían en sistemas que garanticen seguridad, facilidad de uso y respaldo de la información.  
+- El mercado objetivo (jóvenes, parejas, familias y roommates urbanos) tiene un nivel digital suficiente para usar aplicaciones financieras colaborativas.  
+
+**Hypothesis (Hipótesis):**  
+- Creemos que si desarrollamos una aplicación que calcule automáticamente la proporción de gastos según ingresos individuales, los usuarios percibirán mayor equidad y disminuirán los conflictos.  
+- Creemos que si incluimos un sistema de notificaciones y recordatorios en tiempo real, aumentará la puntualidad en los pagos.  
+- Creemos que si ofrecemos reportes claros (historial de pagos, saldos pendientes, aportes individuales), los usuarios sentirán mayor transparencia y confianza en la convivencia financiera.  
+
+---
 #### 1.2.3.3. Lean UX Hypothesis Statements
 #### 1.2.3.4. Lean UX Canvas
 

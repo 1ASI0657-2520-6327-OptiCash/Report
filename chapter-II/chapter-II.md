@@ -216,7 +216,9 @@ Fabricio es un joven padre de familia, responsable de la administración de los 
   <img src="/assets/img/chapter-I/entrevistado2seg2.png" alt="entrevistado1" width="400">
 </div>
 
-- **URL del video en Microsoft Stream:** 
+- **URL del video en Microsoft Stream:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231a804_upc_edu_pe/Efbe_ujy9iVIm6t3LQaXMjMB2lRxI6ambWhs6VW6KSjiOw?e=wbHRTl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Duración:** 06:18
 
 **Resumen descriptivo:** 

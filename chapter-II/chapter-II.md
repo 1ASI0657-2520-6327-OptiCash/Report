@@ -230,6 +230,29 @@ Juan Carlos, de 20 años, es el encargado de administrar el dinero en su hogar. 
 - **Browser/Dispositivos:** Chrome / Android  
 - **Nivel digital:** Intermedio-básico; se siente cómodo con apps sencillas y de uso cotidiano, abierto a nuevas herramientas si no son complejas.
 
+**Entrevista 3**  
+- **Nombre completo:** Maria Fernanda Vallejos Rivas
+- **Edad:** 20 años  
+- **Distrito:** Miraflores  
+- **Screenshot del video:**
+  <div align="center">
+  <img src="/assets/img/chapter-I/entrevistado2seg3.png" alt="entrevistado1" width="400">
+</div>
+
+- **URL del video en Microsoft Stream:** 
+- **Duración:** 
+
+**Resumen descriptivo:** 
+
+
+**Características objetivas y subjetivas observadas:**  
+- **Personalidad:** 
+- **Marcas/Influencias:** 
+- **Tecnología:** 
+- **Canales de interacción:** 
+- **Browser/Dispositivos:**
+- **Nivel digital:** 
+
 ## 2.2.3. Análisis de entrevistas
 
 ### SEGMENTO 1 – Personas del hogar

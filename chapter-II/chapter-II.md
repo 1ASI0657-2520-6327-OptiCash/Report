@@ -241,19 +241,19 @@ Juan Carlos, de 20 años, es el encargado de administrar el dinero en su hogar. 
   <img src="/assets/img/chapter-I/entrevistado2seg3.png" alt="entrevistado1" width="400">
 </div>
 
-- **URL del video en Microsoft Stream:** 
-- **Duración:** 
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213989_upc_edu_pe/EaB64WUkotBBrNWolVwDlpABt59GjjH_3LZ86ALjgJ66zQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=26n5CL
+- **Duración:** 04:25
 
-**Resumen descriptivo:** 
+**Resumen descriptivo:** Esta entrevista se centra en conocer las experiencias y opiniones de María Fernanda, una joven de 20 años, sobre la gestión de gastos compartidos en el hogar, particularmente en situaciones de convivencia familiar. A lo largo de la conversación, se profundiza en sus prácticas y dificultades con la división de los pagos, las herramientas utilizadas para el registro de gastos, y las posibles soluciones tecnológicas que podrían mejorar su situación.
 
 
 **Características objetivas y subjetivas observadas:**  
-- **Personalidad:** 
-- **Marcas/Influencias:** 
-- **Tecnología:** 
-- **Canales de interacción:** 
-- **Browser/Dispositivos:**
-- **Nivel digital:** 
+- **Personalidad:** María Fernanda se presenta como una persona organizada y práctica, buscando soluciones sencillas y efectivas para gestionar los pagos y los gastos compartidos. Se ve preocupada por los desacuerdos que surgen, pero también abierta a la tecnología como herramienta de solución.
+- **Marcas/Influencias:** No se mencionan marcas o influencias específicas en la conversación.
+- **Tecnología:** Utiliza herramientas digitales para gestionar los gastos, pero no tiene un sistema completamente implementado. La necesidad de un sistema de registro rápido y sencillo es clara, y sugiere una interfaz simple para visualización de pagos y fechas pendientes.
+- **Canales de interacción:** No se mencionan canales específicos en la entrevista, pero dada su disposición a aceptar nuevas herramientas, es probable que considere la posibilidad de utilizar aplicaciones móviles o plataformas digitales para gestionar sus finanzas.
+- **Browser/Dispositivos:** No se especifica qué dispositivos o navegador usa, pero dado el contexto de la conversación, podría estar utilizando dispositivos móviles o computadoras para interactuar con posibles soluciones tecnológicas.
+- **Nivel digital:** María Fernanda tiene un nivel digital intermedio. Aunque no ha implementado herramientas tecnológicas para gestionar los gastos del hogar, está abierta a utilizarlas, especialmente aquellas que sean fáciles de usar y que ofrezcan funcionalidad clara.
 
 ## 2.2.3. Análisis de entrevistas
 

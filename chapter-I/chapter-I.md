@@ -194,8 +194,19 @@ Hemos observado un factor crítico que afecta la satisfacción de los usuarios: 
    **We will know this is true when** al menos el 75% de los usuarios califiquen la app como “clara” o “muy clara” en encuestas de satisfacción.  
 
 ---
-#### 1.2.3.4. Lean UX Canvas
+### 1.2.3.4. Lean UX Canvas  
 
+| **Sección**      | **Descripción** |
+|------------------|-----------------|
+| **Problem**      | Los hogares tienen dificultades para dividir gastos de manera justa debido a ingresos desiguales, lo que genera conflictos y desconfianza. |
+| **Users**        | - Jóvenes adultos que comparten departamento (roommates). <br> - Parejas convivientes. <br> - Familias urbanas de nivel socioeconómico A, B y C. |
+| **Needs**        | - Dividir gastos de forma proporcional a ingresos. <br> - Tener recordatorios y notificaciones en tiempo real. <br> - Contar con transparencia y control de pagos pasados y pendientes. <br> - Reducir discusiones y mejorar la organización financiera en el hogar. |
+| **Solution Ideas** | - App móvil/web para gestionar gastos compartidos. <br> - Cálculo automático de aportes según ingresos individuales. <br> - Sistema de notificaciones y recordatorios. <br> - Reportes visuales: historial de pagos, saldos pendientes y aportes individuales. <br> - Respaldo seguro de la información en la nube. |
+| **Assumptions**  | - Los usuarios ya usan tecnología para coordinar pagos (WhatsApp, Excel). <br> - Prefieren una solución centralizada, automática y confiable. <br> - Confían más en una app si esta es segura y simple de usar. |
+| **Hypotheses**   | Si proporcionamos división proporcional + notificaciones + reportes, los usuarios experimentarán menos conflictos y mayor confianza en el manejo de los gastos. |
+| **Experimentation (MVP / Validación)** | - Entrevistas y encuestas a segmentos objetivo. <br> - Prototipo de app con funcionalidades básicas: registro de ingresos, gastos y cálculo proporcional. <br> - Medir satisfacción, claridad percibida y reducción de conflictos tras 4 semanas de uso piloto. |
+
+---
 ## 1.3. Segmentos objetivo
 ### Segmento objetivo 1: Integrantes del hogar
 

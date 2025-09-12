@@ -163,7 +163,7 @@ Pierina vive con su roomie en una residencia cerca de la universidad. Actualment
   <img src="/assets/img/chapter-I/entrevistado 1.3.png" alt="entrevistado 1.3" width="400">
 </div>
 
-- **URL del video en Microsoft Stream:** 
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310670_upc_edu_pe/EfODD_QV8jRDtSGcrr8LYbYB5sBJMJ_VDCSfLW1BnKu-lw?e=IXygbP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Duración:** 04:04
 
 **Resumen descriptivo:** Jessamy Dhaga del Castillo vive actualmente con sus roomies, con quienes comparte los gastos del alquiler y los servicios básicos. Sin embargo, señala que no suelen ser muy organizados al momento de dividir los pagos ni puntuales al cumplir con ellos. Como solución provisional, crearon un grupo de WhatsApp para enviar capturas de pantalla cuando alguien realiza un pago. Aun así, comenta que esta medida no ha resuelto del todo los problemas de puntualidad ni de equidad en la división de gastos. Por este motivo, considera fundamental que una aplicación como OptiCash cuente con una sección dedicada a la división de gastos y con un sistema de notificaciones en tiempo real, que alerte sobre los pagos realizados y los pendientes, facilitando así la organización y el control financiero en su convivencia.

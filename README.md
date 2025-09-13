@@ -175,6 +175,7 @@
 - [Links]()
 
 ## Student Outcome
+
 | Criterio especifico                                                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Actualizan conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | *Ruben Genaro Velasquez Chambi*<br> **TB1**<br> Planteé el tema del proyecto e identifiqué el problema que buscamos resolver, haciendo uso de técnicas como Lean UX. Además, definí el segmento objetivo al que estará dirigido.                                                                                                                                       | El uso de los Lean UX Problem Statements fue clave para identificar de manera precisa el problema que se busca solucionar tecnológicamente.                                                                                                          |
@@ -187,3 +188,307 @@
 |                                                                                                                                          | *Cameron Charllote Bustamante Leveau*<br> **TB1**<br> A partir de la elaboración de los antecedentes, la problemática (5W y 2H) y el análisis de entrevistas al segmento 2, comprendí la relevancia de estructurar correctamente la información inicial para sustentar el desarrollo del proyecto.                                                                     | El aprendizaje continuo me permitió fortalecer habilidades de análisis y estructuración, lo que contribuye a generar soluciones de software con mayor fundamento y alineadas a las necesidades reales de los usuarios.                               |
 |                                                                                                                                          | *Renzo Alonso Villafuerte Tapia*<br> **TB1**<br> En este proceso aprendí la importancia de aplicar técnicas de investigación cualitativa para comprender a fondo la perspectiva de los usuarios, lo que enriquece el diseño de soluciones tecnológicas centradas en las personas. Asimismo, reforcé mis habilidades de análisis crítico y de sistematización de datos. | El aprendizaje constante y la aplicación de metodologías centradas en el usuario son fundamentales para el desarrollo de software que tenga impacto real, fomentando soluciones más efectivas y alineadas con la vida cotidiana de las personas.     |
 |                                                                                                                                          | *Jose Luis Martinez Valdivia*<br> **TB1**<br> Apliqué las metodologías de validación de user stories y pruebas de usabilidad, lo que me permitió mejorar la calidad de las funcionalidades y detectar posibles errores en el desarrollo.                                                                                                                                       | El aprendizaje continuo en la validación de user stories y usabilidad es esencial para entregar soluciones de software que realmente se ajusten a las expectativas de los usuarios finales.                                                          |
+
+
+# Capítulo I: Presentación
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+## 1.2. Solution Profile
+### 1.2.1. Antecedentes y problemática
+<div align="justify">
+
+La división de gastos compartidos ha sido un reto constante en hogares y grupos desde hace décadas. Tradicionalmente se resolvía con cálculos manuales o acuerdos informales, lo que generaba errores, retrasos en los pagos y conflictos entre las personas (Gómez & Ramírez, 2018).  
+
+Hoy en día, este problema persiste. Según PwC (2020), más del 45% de jóvenes adultos que comparten vivienda reportan conflictos por gastos mal distribuidos, y la Encuesta Global de Finanzas Personales de Visa (2021) indica que el 38% de los encuestados considera “estresante” dividir cuentas en grupo. Estas cifras reflejan la necesidad de una solución más justa y transparente.  
+
+En este contexto, surge OptiCash, una herramienta que facilita el reparto equitativo de los gastos considerando los ingresos individuales, promoviendo la transparencia y reduciendo los conflictos financieros en la convivencia.  
+
+</div>
+
+
+### What
+<div align="justify">
+
+**¿Cuál es el problema?**  
+El problema es la distribución inadecuada de los gastos en hogares donde las personas tienen diferentes ingresos, lo que genera desigualdad en las contribuciones y posibles conflictos. Según PwC (2020), más del 45% de jóvenes que comparten vivienda reportan discusiones por gastos mal repartidos.  
+
+**¿Cuál es la relación con la persona en cuestión?**  
+El sistema está diseñado para que cada miembro del hogar pueda visualizar y aportar su parte justa según su capacidad económica. El representante del hogar gestiona el seguimiento y asegura que todos contribuyan de manera justa.  
+
+</div>
+
+
+
+### When
+<div align="justify">
+
+**¿Cuándo sucede el problema?**  
+El problema ocurre a menudo al momento de pagar las facturas del hogar (mensualmente, por ejemplo). Los miembros enfrentan la dificultad de repartir los gastos de manera justa, especialmente si hay diferencias en ingresos.  
+
+**¿Cuándo utiliza el cliente el producto?**  
+El cliente lo utilizará cada vez que se registre un gasto común (alquiler, luz, agua, supermercado, etc.) o cuando quiera conocer su contribución justa según su ingreso. También lo usará al final de cada mes para hacer un seguimiento de pagos y deudas pendientes.  
+
+</div>
+
+
+
+### Where
+<div align="justify">
+
+**¿Dónde está el cliente cuando usa el producto?**  
+El cliente generalmente estará en su hogar o en un lugar donde tenga acceso a Internet, como en su teléfono móvil o computadora. Es un producto digital, por lo que se accede a través de una aplicación web o móvil.  
+
+**¿A dónde se dirige?**  
+El cliente se dirige al panel de control del sistema para consultar los gastos, los montos que debe aportar y el saldo pendiente.  
+
+**¿Dónde surge el problema?**  
+El problema surge en el hogar, cuando los gastos comunes (como luz, agua, comida, etc.) deben ser repartidos de forma proporcional entre los miembros, teniendo en cuenta sus diferentes ingresos.  
+
+</div>
+
+
+### Why
+<div align="justify">
+
+**¿Cuál es la causa principal del problema?**  
+La falta de un sistema claro y equitativo para distribuir los gastos. Esto genera malestar y conflictos, ya que no se refleja la capacidad real de cada persona para aportar (Visa, 2021).  
+
+</div>
+
+
+
+### Who
+<div align="justify">
+
+**¿Quiénes están involucrados?**  
+Los principales involucrados son los miembros del hogar y el representante del hogar.  
+
+**¿A quiénes les sucede el problema?**  
+Les sucede a las personas que viven juntas y comparten gastos, como parejas, familias o compañeros de cuarto que tienen ingresos distintos.  
+
+**¿Quién lo utilizará?**  
+- Los miembros del hogar, quienes podrán ver cuánto deben pagar según su capacidad económica.  
+- El representante del hogar, quien gestiona y supervisa el proceso de reparto de los gastos.  
+
+</div>
+
+
+
+### How
+<div align="justify">
+
+**¿Cómo ocurre el problema?**  
+El problema aparece al dividir los gastos comunes de forma manual o igualitaria, sin considerar los ingresos de cada miembro, lo que genera desigualdad y conflictos.  
+
+**¿Cómo se lleva a cabo el proceso en OptiCash?**  
+1. Cada miembro del hogar registra sus ingresos y se crea un perfil en el sistema.  
+2. Los gastos comunes (alquiler, servicios, compras, etc.) se ingresan en la aplicación.  
+3. El sistema calcula automáticamente la contribución proporcional de cada persona según sus ingresos.  
+4. Cada miembro puede consultar en su panel cuánto debe pagar, cuánto ya aportó y qué deudas están pendientes.  
+5. El representante del hogar supervisa el estado de los pagos y asegura que todo se mantenga actualizado.  
+
+**¿En qué condiciones usan el producto?**  
+Cuando necesitan repartir gastos de manera justa, controlar pagos realizados y pendientes o evitar errores manuales.  
+
+**¿Qué motiva a las personas a usarlo?**  
+La necesidad de transparencia, la búsqueda de equidad y la reducción de conflictos financieros, respaldado por una plataforma segura, confiable y fácil de usar.  
+
+</div>
+
+
+### How Much
+<div align="justify">
+
+**¿Cuál es la magnitud del problema?**  
+El problema de los gastos compartidos no es aislado, sino constante y cotidiano. Cada mes, millones de hogares destinan tiempo y energía a discutir cómo dividir facturas y compras, lo que genera fricciones en la convivencia. Más allá de los números, el impacto se refleja en relaciones tensas, retrasos en pagos y una falta de organización financiera que afecta tanto la economía como la armonía en el hogar.  
+
+**¿Cuánto cuesta no resolverlo?**  
+No contar con una herramienta justa puede generar pérdidas económicas por pagos atrasados, deudas no saldadas y tensiones que afectan la convivencia. Además, el tiempo invertido en cálculos manuales puede ser considerable mes a mes.  
+
+**¿Cuánto vale la solución?**  
+OptiCash ofrece un ahorro de tiempo y una reducción de conflictos al automatizar los cálculos y adaptar las contribuciones a los ingresos. Esto no solo representa eficiencia, sino también un valor intangible en la mejora de la convivencia y la confianza entre los miembros del hogar.  
+
+</div>
+
+<div align="center">
+
+**Representación de costo promedio de errores en cálculos manuales - 2020**  
+
+*Fernando Blanco P. (2020). Gráfico de LDL – ESTADÍSTICA VISUAL (VIII). Gráficos con barras de error: manual de usuario – Lima, 2020*  
+<img src="" alt="grafico1"/>
+
+**Figura:** Representación visual del costo promedio de errores manuales.  
+
+</div>
+
+
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
+
+## 1.3. Segmentos objetivo
+
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
+### 2.1.1. Análisis competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+## 3.2. User Stories
+
+## 3.3. Impact Mapping
+
+## 3.4. Product Backlog
+
+# Capítulo IV: Solution Software Design
+## 4.1. Strategic-Level Domain-Driven Design
+### 4.1.1. EventStorming
+#### 4.1.1.1. Candidate Context Discovery
+
+#### 4.1.1.2. Domain Message Flows Modeling
+
+#### 4.1.1.3. Bounded Context Canvases
+
+### 4.1.2. Context Mapping
+
+### 4.1.3. Software Architecture
+#### 4.1.3.1. Software Architecture Context Level Diagrams
+
+#### 4.1.3.2. Software Architecture Container Level Diagrams
+
+#### 4.1.3.3. Software Architecture Deployment Diagrams
+
+## 4.2. Tactical-Level Domain-Driven Design
+### 4.2.X. Bounded Context: <Bounded Context Name>
+#### 4.2.X.1. Domain Layer
+
+#### 4.2.X.2. Interface Layer
+
+#### 4.2.X.3. Application Layer
+
+#### 4.2.X.4. Infrastructure Layer
+
+#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
+
+##### 4.2.X.6.2. Bounded Context Database Design Diagram
+
+# Capítulo V: Solution UI/UX Design
+## 5.1. Product Design
+### 5.1.1. Style Guidelines
+#### 5.1.1.1. General Style Guidelines
+
+### 5.1.2. Information Architecture
+#### 5.1.2.1. Organization Systems
+
+#### 5.1.2.2. Labelling Systems
+
+#### 5.1.2.3. SEO Tags and Meta Tags
+
+#### 5.1.2.4. Searching Systems
+
+#### 5.1.2.5. Navigation Systems
+
+### 5.1.3. Landing Page UI Design
+
+#### 5.1.3.1. Landing Page Wireframe
+
+#### 5.1.3.2. Landing Page Mock-up
+
+### 5.1.4. Mobile Applications UX/UI Design
+#### 5.1.4.1. Mobile Applications Wireframes
+
+
+#### 5.1.4.2. Mobile Applications Wireflow Diagrams
+
+#### 5.1.4.3. Mobile Applications Mock-ups
+
+#### 5.1.4.4. Mobile Applications User Flow Diagrams
+
+#### 5.1.4.5. Mobile Applications Prototyping
+
+# Capítulo VI: Product Implementation, Validation & Deployment
+
+## 6.1. Software Configuration Management
+
+### 6.1.1. Software Development Environment Configuration
+
+### 6.1.2. Source Code Management
+
+### 6.1.3. Source Code Style Guide & Conventions
+
+### 6.1.4. Software Deployment Configuration
+
+## 6.2. Landing Page & Mobile Application Implementation
+
+### 6.2.X. Sprint n
+
+#### 6.2.X.1. Sprint Planning n
+
+#### 6.2.X.2. Sprint Backlog n
+
+#### 6.2.X.3. Development Evidence for Sprint Review
+
+#### 6.2.X.4. Testing Suite Evidence for Sprint Review
+
+#### 6.2.X.5. Execution Evidence for Sprint Review
+
+#### 6.2.X.6. Services Documentation Evidence for Sprint Review
+
+#### 6.2.X.7. Software Deployment Evidence for Sprint Review
+
+#### 6.2.X.8. Team Collaboration Insights during Sprint
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+
+### 6.3.2. Registro de Entrevistas
+
+### 6.3.3. Evaluaciones según heurísticas
+
+## 6.4. Video About-the-Product
+
+# Conclusiones
+
+## Conclusiones y recomendaciones
+
+# Video About-the-Team
+
+# Bibliografía
+
+
+# Anexos

@@ -140,14 +140,17 @@ Pierina vive con su roomie en una residencia cerca de la universidad. Actualment
 </div>
 
 - **URL del video en Microsoft Stream:** 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113279_upc_edu_pe/EfZyNVYIU7dDvgqEjmCb9i4BBADFPZXEBceKNGBzr-IcwA?e=k9304I&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 - **Duración:** 04:12
 
 **Resumen descriptivo:** Maria Pilares nos cuenta que actualmente los gastos se dividen en partes iguales pero esto genera problemas ya que no todos en el hogar ganan los mismo ingresos y esto genera discusiones. Maria cuenta q el  sistema actual actual es poco transparente ya que cuesta recordar quién pagó y dependen de avisos en la app WhatsApp o de hojas de cálculo de Excel donde no siempre se eactualizan. Nos comenta que en su hogar hablar del dinero a veces resulta incómodo. Además nos cuenta que si existiera una pp como OptiCash, confiaría en ella si fuera segura, fácil de usar y transparente en lo cáluclo. Le gusatría ver los saldo pendiente, hisotrial de pagos y alertas. Cree que un aplicación así ocasionaría que bajen las tensiones en la convivencia y haría el reparto de gastos más justo.
 
 **Características objetivas y subjetivas observadas:**  
 - **Personalidad:** Amable 
-- **Marcas/Influencias:**  
-- **Tecnología:**
+- **Marcas/Influencias:**  Apple
+- **Tecnología:** IOS
 - **Canales de interacción:** WhatsApp  
 - **Browser/Dispositivos:** Chrome / Apple  
 - **Nivel digital:** Alto  
